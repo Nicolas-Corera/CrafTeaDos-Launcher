@@ -10,6 +10,8 @@
       "modLoader": "Fabric",
       "active": true,
       "ram": "4G",
+      "configZipUrl": "https://raw.githubusercontent.com/Nicolas-Corera/CrafTeaDos-Launcher/main/modpacks/craftea-v1/config.zip",
+      "configVersion": "1.0.0",
       "mods": [
         {
           "filename": "appleskin-fabric-mc1.21.11-3.0.8.jar",
