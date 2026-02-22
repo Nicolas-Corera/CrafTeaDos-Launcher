@@ -8,7 +8,7 @@
       "description": "El modpack oficial de CrafTea DOS. Fabric 1.21.11 con mods de rendimiento, visual y utilidades.",
       "minecraftVersion": "1.21.11",
       "modLoader": "Fabric",
-      "fabricVersion": "0.16.10",
+      "fabricVersion": "0.18.4",
       "active": true,
       "ram": "4G",
       "configZipUrl": "https://raw.githubusercontent.com/Nicolas-Corera/CrafTeaDos-Launcher/main/modpacks/craftea-v1/config.zip",
