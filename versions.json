@@ -12,10 +12,6 @@
       "ram": "4G",
       "mods": [
         {
-          "filename": "AmbientSounds_FABRIC_v6.3.5_mc1.21.11.jar",
-          "url": "https://raw.githubusercontent.com/Nicolas-Corera/CrafTeaDos-Launcher/main/modpacks/craftea-v1/mods/AmbientSounds_FABRIC_v6.3.5_mc1.21.11.jar"
-        },
-        {
           "filename": "appleskin-fabric-mc1.21.11-3.0.8.jar",
           "url": "https://raw.githubusercontent.com/Nicolas-Corera/CrafTeaDos-Launcher/main/modpacks/craftea-v1/mods/appleskin-fabric-mc1.21.11-3.0.8.jar"
         },
